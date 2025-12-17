@@ -1,7 +1,6 @@
 # Instagram Lead Discovery & Outreach Assistant
 
-> A compliance-first workflow that helps you discover relevant Instagram accounts from public signals (hashtags, post captions, public comments) and prepare outreach drafts for human review.  
-> It focuses on lead qualification, safe pacing, and auditability—without mass unsolicited DMs, spam comments, or follow/unfollow automation.
+> A compliance-first workflow that helps you discover relevant Instagram accounts from public signals (hashtags, post captions, public comments) and prepare outreach drafts for human review. It focuses on lead qualification, safe pacing, and auditability—without mass unsolicited DMs, spam comments, or follow/unfollow automation.
 
 
 <p align="center">
